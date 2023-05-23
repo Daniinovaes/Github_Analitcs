@@ -1,4 +1,4 @@
-# Github_Analitcs
+# Github Analysis
 TCC do MBA de Data Science
 
 # Instruções de uso:
