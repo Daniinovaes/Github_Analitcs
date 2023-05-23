@@ -11,3 +11,4 @@ Gostaria de deixar claro que antes de rodar o projeto precisamos:
  
  ## Observações:
 O código ainda não foi ordenado, nem otimizado pois ele foi só um meio para analisar os numeros do caso estudado.
+O TCC anida está em andamento.
